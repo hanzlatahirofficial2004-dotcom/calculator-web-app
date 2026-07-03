@@ -1,7 +1,8 @@
 # Simple Web Calculator
 
 A clean, responsive, and lightweight web-based calculator built using pure HTML5, CSS3, and JavaScript. This project handles basic mathematical computations dynamically using inline events and JavaScript logic.
- <img width="429" height="692" alt="image" src="https://github.com/user-attachments/assets/b6d33f77-9db6-41ea-9b60-1dd65190e660" />
+<img width="365" height="646" alt="image" src="https://github.com/user-attachments/assets/e6c3e718-6fb6-4c2e-8521-26647c65c8dc" />
+
 
 
 ---
